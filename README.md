@@ -1,3 +1,7 @@
+This repository is stale at the moment. A fork that is actively developed can be found at [tueit/it_management](https://github.com/tueit/it_management).
+
+Please reach out to hallo@alyf.de to get this app tailored to your needs.
+
 ## IT Management
 
 ERPNext App for the management of IT components. This includes IT equipment and IT solutions such as servers, computers, networks and e-mail servers as well as backups, service contracts, accounts and Internet services.
